@@ -1,0 +1,17 @@
+BP 4
+
+Hardware Interfacing
+
+Arduino IDE instaleren
+
+account tinkercad
+
+git repo aanmaken (liefst publiek)
+
+Micro controller
+
+ATmega328P
+
+setup voor wat je gaat gebruiken
+
+digital read
