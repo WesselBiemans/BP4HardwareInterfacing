@@ -1,0 +1,7 @@
+Gebruikte componenten:
+
+- 1 Arduino Uno R3
+- 1 LM35
+- 2 rode draden
+- 2 zwarte draden
+- 1 blauwe draad

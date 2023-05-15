@@ -1,0 +1,10 @@
+Gebruikte componenten:
+
+- 1 Arduino Uno R3
+- 6 rode led
+- 1 gele led
+- 1 potentiometer
+- 9 rode draden
+- 9 zwarte draden
+- 1 blauwe draad
+- 7 220 ohm resistoren

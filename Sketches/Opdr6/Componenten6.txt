@@ -1,0 +1,6 @@
+Gebruikte componenten:
+
+- 1 Arduino Uno R3
+- 1 3-kleurenled
+- 4 rode draden
+- 2 zwarte draden
